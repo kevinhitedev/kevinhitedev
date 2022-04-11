@@ -7,6 +7,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 1](https://journal.kevinhite.dev/post/672935506308431872)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
