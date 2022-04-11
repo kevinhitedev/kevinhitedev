@@ -3,19 +3,19 @@
 - 👀 I’m interested in Business, Blockchain, Cryptocurriences, and Metaverse.
 - 🌱 I’m currently learning UX Design, JavaScript, Cloud Computing, Farsi and Mandarin.
 - 💞️ I’m looking to collaborate with content creators.
-- One of my main goals this year is to contribute to more open source projects.
+- ✨ One of my main goals this year is to contribute to more open source projects.
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Day 1](https://journal.kevinhite.dev/post/672935506308431872)
 <!-- BLOG-POST-LIST:END -->
-
-<!---
-kevinhitedev/kevinhitedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <br/>
-### Follow me at
+### Follow Me At
+
+
+
+<br/>
+### Links
 [dribbble]
 [bitbucket]
 [linkedin]
@@ -30,3 +30,8 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 ### Languages and Tools
+
+---
+
+<br/>
+<img align="center" style="display:block;margin:0 auto;" alt="KEVIN HITE's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kevinhitedev&show_icons=true&hide_borer=true"/>
