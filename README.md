@@ -24,7 +24,6 @@
 ---
 
 <br/>
-<img align="center" style="display:block;margin:0 auto;" alt="KEVIN HITE's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kevinhitedev&show_icons=true&hide_borer=true"/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinhitedev&show_icons=true)  
 
