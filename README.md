@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m * KEVIN * aka [&#60;𝒌&#47;𝒉&#62;.ᴅᴇᴠ](https://kevinhite.dev)
 ##  
-- 👀 I’m interested in Business, Blockchain, Cryptocurriences, and Metaverse.
-- 🌱 I’m currently learning UX Design, JavaScript, Cloud Computing, Farsi and Mandarin.
+- 👀 I’m interested in UX Design, JavaScript, Cloud Computing.
+- 🌱 I’m currently learning Farsi and Mandarin.
 - 💞️ I’m looking to collaborate with content creators.
 - ✨ One of my main goals this year is to contribute to more open source projects.
 
