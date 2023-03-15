@@ -12,6 +12,10 @@
 
 <br/>
 
+## Language and Tools
+
+## Latest Videos
+
 ## Links
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bitbucket.svg' alt='dribbble' height='40'>](https://www.bitbucket.org/kevinhitedev) 
