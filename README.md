@@ -16,6 +16,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Language and Tools
+Cloud (AWS, Azure, GCP), JS (MEAN & MERN), PHP, SQL, Java, C#, Go, R, Docker, Kubernetes, LAMP
 
 ## Latest Videos
 
