@@ -22,11 +22,3 @@ Cloud (AWS, Azure, GCP), JS (MEAN & MERN), PHP, SQL, Java, C#, Go, R, Docker, Ku
 
 ## Links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/kevinhitedev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='40'>](https://dribbble.com/kevinhitedev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kevinhitedev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/kevinhitedev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/kevinhitedev)
-
-<a class="socialmedia-link" href="https://linkedin.com/in/kevinhitedev/" title="KEVINHITE.DEV on LinkedIn"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>&nbsp;
-     <a class="socialmedia-link" href="https://dribbble.com/kevinhitedev/" title="KEVINHITE.DEV on Dribbble"><i class="fa fa-dribbble fa-2x" aria-hidden="true"></i></a>&nbsp;
-     <a class="socialmedia-link" href="https://github.com/kevinhitedev/" title="KEVINHITE.DEV on GitHub"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>&nbsp;
-     <a class="socialmedia-link" href="https://medium.com/kevinhitedev/" title="KEVINHITE.DEV on Medium"><i class="fa fa-medium-square fa-2x" aria-hidden="true"></i></a>&nbsp;
-     <a class="socialmedia-link" href="https://codepen.io/kevinhitedev/" title="KEVINHITE.DEV on CodePen"><i class="fa fa-codepen fa-2x" aria-hidden="true"></i></a>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinhitedev&show_icons=true)  
