@@ -1,7 +1,7 @@
 ### [&#60;𝒌&#47;𝒉&#62;.ᴅᴇᴠ](https://kevinhite.dev)
 
-##  About
-✨ I am a self-taught software engineer with a passion for coding and a knack for learning new programming languages. With expertise in Python, JavaScript, PHP, Java, and C#, I am well-equipped to tackle any coding challenge that comes my way. My interest in the latest technology trends has led me to explore cloud computing, cybersecurity, and artificial intelligence. As the world becomes increasingly digitized, I recognize the importance of staying up-to-date with the latest advancements and integrating them into my work. One of my main goals this year is to contribute to more open source projects.
+##  
+✨ Python, JavaScript, Java, SQL, and C#. Interested in blockchain, cloud, machine learning/artificial intelligence, and security. Always willing to play in social media and SEO. One of my main goals this year is to contribute to more open-source projects.
 <!--
 ## Latest Project
 *   Project #1
@@ -11,10 +11,11 @@
 *   Project #5
 
 ## Latest Blog Posts
+-->
 <!-- BLOG-POST-LIST:START -->
 - [Day 1](https://journal.kevinhite.dev/post/672935506308431872)
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 ## Language and Tools
 Cloud (AWS, Azure, GCP), JS (MEAN & MERN), PHP, SQL, Java, C#, Go, R, Docker, Kubernetes, LAMP
 
