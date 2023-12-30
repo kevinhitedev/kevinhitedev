@@ -1,7 +1,7 @@
 ### [&#60;𝒌&#47;𝒉&#62;.ᴅᴇᴠ](https://kevinhite.dev)
 
 ##  
-✨ Python, JavaScript, Java, SQL, and C#. Interested in blockchain, cloud, machine learning/artificial intelligence, and security. Always willing to play in social media and SEO. One of my main goals this year is to contribute to more open-source projects.
+✨ Python, JavaScript, Java, SQL, and C#. Interested in blockchain, cloud, machine learning/artificial intelligence, and security. Always willing to play in branding, social media and SEO. One of my main goals this year is to contribute to more open-source projects.
 <!--
 ## Latest Project
 *   Project #1
