@@ -19,12 +19,9 @@
 ## Language and Tools
 ## Latest Videos
 ## Links
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/kevinhitedev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='40'>](https://dribbble.com/kevinhitedev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kevinhitedev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/kevinhitedev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/kevinhitedev)
 -->
 <small>
-https://linkedin.com/in/kevinhitedev/<br/>
-https://dribbble.com/kevinhitedev/<br/>
-https://bitbucket.io/kevinhitedev/<br/>
-https://medium.com/kevinhitedev/<br/>
-https://codepen.io/kevinhitedev/
+https://www.linkedin.com/in/kevinhitedev<br/>
+https://www.twitter.com/kevinhitedev<br/>
+https://www.instagram.com/kevinhite.dev<br/>
 </small>
