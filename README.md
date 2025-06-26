@@ -1,7 +1,10 @@
 ### [&#60;𝒌&#47;𝒉&#62;.ᴅᴇᴠ](https://kevinhite.dev)
 
 ##  
-✨ I'm interested in blockchain, cloud, machine learning/artificial intelligence, and security. Always willing to play in branding, social media, and SEO. One of my main goals this year is to contribute to more open-source projects.
+✨ 👋🏽 hi, I’m Kevin — I engineer brands that breathe.  
+🎯 Focus: Full-stack dev (React + Express), branding systems, cultural storytelling  
+🔧 Passion Projects: Code-driven branding tools + automotive-inspired UI  
+🚀 Current sprint: 1-month full-stack mastery — follow my progress below
 <!--
 ## Latest Project
 *   Project #1
