@@ -1,10 +1,10 @@
 ### [&#60;𝒌&#47;𝒉&#62;.ᴅᴇᴠ](https://kevinhite.dev)
 
 ##  
-✨ 👋🏽 hi, I’m Kevin — I engineer brands that breathe.  
-🎯 Focus: Full-stack dev (React + Express), branding systems, cultural storytelling  
-🔧 Passion Projects: Code-driven branding tools + automotive-inspired UI  
-🚀 Current sprint: 1-month full-stack mastery — follow my progress below
+💻 Creative Technologist | Brand Engineer  
+🔧 I build full-stack tools + brand systems that convert  
+🌍 VA roots | Code meets culture | Performance-driven  
+📬 Let’s build with intention → kevinhite.dev
 <!--
 ## Latest Project
 *   Project #1
