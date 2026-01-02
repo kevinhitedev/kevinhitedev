@@ -1,30 +1,18 @@
-### [&#60;𝒌&#47;𝒉&#62;.ᴅᴇᴠ](https://kevinhite.dev)
+## Kevin Hite
 
-##  
-💻 Creative Technologist | Brand Engineer  
-🔧 I build full-stack tools + brand systems that convert  
-🌍 VA roots | Code meets culture | Performance-driven  
-📬 Let’s build with intention → kevinhite.dev
-<!--
-## Latest Project
-*   Project #1
-*   Project #2
-*   Project #3
-*   Project #4
-*   Project #5
+Software Engineer specializing in full-stack and AI-driven systems.
 
-## Latest Blog Posts
--->
-<!-- BLOG-POST-LIST:START -->
-- [Day 1](https://journal.kevinhite.dev/post/672935506308431872)
-<!-- BLOG-POST-LIST:END -->
-<!--
-## Language and Tools
-## Latest Videos
-## Links
--->
-<small>
-https://www.linkedin.com/in/kevinhitedev<br/>
-https://www.twitter.com/kevinhitedev<br/>
-https://www.instagram.com/kevinhite.dev<br/>
-</small>
+I design and build production-oriented web applications with an emphasis on
+clean architecture, scalability, and intelligent automation.
+
+**Core focus**
+- Full-stack application development
+- API design and data-driven systems
+- AI integration in real-world products
+
+**Primary stack**
+- JavaScript
+- Python
+- SQL
+
+Selected projects below reflect systems-level thinking rather than isolated demos.
