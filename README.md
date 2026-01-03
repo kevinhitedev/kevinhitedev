@@ -2,17 +2,18 @@
 
 Software Engineer specializing in full-stack and AI-driven systems.
 
-I design and build production-oriented web applications with an emphasis on
+I design and build production-oriented software with an emphasis on
 clean architecture, scalability, and intelligent automation.
+My work focuses on systems that solve real problems and hold up in real environments.
 
-**Core focus**
+### Focus Areas
 - Full-stack application development
-- API design and data-driven systems
-- AI integration in real-world products
+- API-driven and data-centric systems
+- Practical AI integration in production software
 
-**Primary stack**
+### Core Stack
 - JavaScript
 - Python
 - SQL
 
-Selected projects below reflect systems-level thinking rather than isolated demos.
+Pinned repositories below represent deliberate, systems-level projects.
